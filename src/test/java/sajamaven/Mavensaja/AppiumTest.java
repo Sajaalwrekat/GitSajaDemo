@@ -15,5 +15,11 @@ public class AppiumTest {
 		System.out.println("appium test case 2");
 		
 	}
+	
+	@Test
+	public void AppiumCase3() {
+		System.out.println("appium test case 3 by branch develop");
+		
+	}
 
 }
