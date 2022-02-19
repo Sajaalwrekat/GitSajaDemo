@@ -7,7 +7,7 @@ public class AppiumTest {
 	@Test
 	public void AppiumCase1() {
 		System.out.println("appium test case 1");
-		
+		System.out.print("appium test case by XX");
 	}
 	
 	@Test
