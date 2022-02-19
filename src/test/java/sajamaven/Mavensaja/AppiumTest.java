@@ -15,5 +15,7 @@ public class AppiumTest {
 		System.out.println("appium test case 2");
 		
 	}
+	
+	
 
 }

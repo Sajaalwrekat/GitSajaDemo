@@ -24,5 +24,17 @@ public class SeleniumTest {
 		System.out.print("Selenium test case 3");
 	}
 	
+	@Test
+	public void seleiumCase4() {
+		
+		System.out.print("Selenium test case 4 by develop branch");
+	}
+	
+	
+	public void seleiumCase5() {
+		
+		System.out.print("Selenium test case 5 by develop branch by git stuff user");
+	}
+	
 	
 }
